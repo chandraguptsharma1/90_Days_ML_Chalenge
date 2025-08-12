@@ -7,7 +7,7 @@ This repository will contain **daily project code, datasets, outputs, and progre
 ---
 
 ## 📅 Day 1 – Matrix Art Generator (Lite)
-![Day-1 Matrix Art](outputs/matrixArt.png)
+![Day-1 Matrix Art](outputs/matrixArt.PNG)
 **Goal:**  
 Learn Python basics & NumPy while creating a fun **Matrix / Pixel Art Generator** with a simple UI using **Streamlit**.
 
